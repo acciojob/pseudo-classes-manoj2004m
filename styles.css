@@ -7,6 +7,10 @@
             color: white;
             background-color: black;
         }
+article p:nth-child(2) {
+    color: black;
+    background-color: transparent;
+}
 
        
 
